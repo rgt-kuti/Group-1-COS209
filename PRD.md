@@ -1,6 +1,6 @@
 
 
-## Product Requirements Document (PRD)
+## Product Requirements Document (PRD)                 
 
 ## Product Name: Campus Shade
 ## Product Overview: An App focused on an easy organization and scheduling of online classes when heat is too intense/unbearable for students and teachers alike
@@ -48,6 +48,9 @@ Active Online Meeting Organization via the app when UV rays are too intense
 Easy Communication or Notification between students
 Percentage of Online meetings happening via the app when UV rays are too intense compared to classes still holding normally should pass 30%
 Use of Campus transportation should fall during active hours 
+
+
+## Done By Morakinyo Ayompioninuoluwa Kuti (Group Lead)
 
 
 
