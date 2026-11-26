@@ -22,9 +22,9 @@ My solution to this would be having attendance taken personally by the lecturer,
 
 ## USER STORIES:
 
-A written response from a student said they would want to be able to receive a notification a times when the heatwave is present (38 degrees Celsius and above), Giving them Easy access to the main feature the app provides
+A result of a written response from a student , we would want to ake students able to o receive a notification a times when the heatwave is present (38 degrees Celsius and above), Giving them Easy access to the main feature the app provides
 
-As for teachers, they wish to be able to verify attendance via the hostel hall and to be able to send out notifications when they schedule classes to their students, which would also help with easier communication between both parties 
+As for teachers, we wish for them  to be able to verify attendance via the hostel hall and to be able to send out notifications when they schedule classes to their students, which would also help with easier communication between both parties 
 
 ## Products targets:
 Students of Babcock
