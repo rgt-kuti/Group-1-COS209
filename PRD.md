@@ -9,6 +9,10 @@
 As of the recent month, there has been a lot of complaints concerning the heatwave and the intensity of it, causing noticeable skin damage overtime and encouraging absurd and unsustainable  spending on campus transport just to avoid it .1000 naira a day on transport  is unsustainable
 When paired with recent outages,  Most students also find it hard to learn under such conditions 
 
+### PROPOSED SOLUTION:
+Have build an app capable of detecting the weather and scheduling Online Classes at times where heat is unbearable (12pm to 3pm) or when heat is above 38 degrees as to minimize UV intake as much as possible and maximize learning during he heatwave
+
+
 ## BASED ON STUDENT RESPONSES TO A SURVEY,
 Heat is felt the most at 12pm to 2pm times with a rating of 4 out of 5 meaning there is an intense UV peak that would most likely still be in effect at later times of the day (3 to 4:30)
 My Original solution to this was online classes being held at the hostel, however, the students stated via the survey that there is a high percentage of students that struggle with attentiveness 
@@ -16,32 +20,30 @@ My modified solution would be to have students attend online classes in their ho
 Another problem that could arise is the keeping of attendance
 My solution to this would be having attendance taken personally by the lecturer, with them calling each persons name respectively and each person responding when called
 
-## USER PREFERENCES:
+## USER STORIES:
 
-A written response from a student said they would want to be able to receive a notification a times when the heatwave is present (38 degrees Celsius and above)
+A written response from a student said they would want to be able to receive a notification a times when the heatwave is present (38 degrees Celsius and above), Giving them Easy access to the main feature the app provides
 
-And as for teachers, they wish to be able to verify attendance via the hostel hall and to be able to send out notifications when they schedule classes to their students 
-
-## Proposed Solution:
-Have Online Classes at times where heat is unbearable (12pm to 3pm) or when heat is above 38 degrees as to minimize UV intake as much as possible
-How to identify those times :
-Use a weather tracking app to let both teachers and students know if the current UV is too high or not 
+As for teachers, they wish to be able to verify attendance via the hostel hall and to be able to send out notifications when they schedule classes to their students, which would also help with easier communication between both parties 
 
 ## Products targets:
 Students of Babcock
 Lecturers and Staff of Babcock
 
-## MVP FEATURES:
+## MVP FEATURES
+## [
+##(Functional Requirements):
 Able to gather Information about the current weather and its UV intensity
-Registration
 Be Able to organize online meetings for other classes at the time the normal class would have hosted via google meet links
 Teacher to student Communication
 Close venue allocation
-
-## EXCLUDED FROM FIRST RELEASE :
+## Non-functional Requirements:
 Notifications from students and teachers 
 Ability to schedule classes at later times
-
+Registration
+## ]
+## SCOPE AND PRIORITIES
+In order to be able to get a working prototype, The MVP must have an indepth weather collation system ,able to accurately output Current Temperature and UV intensity 
 
 ## Success Metrics:
 Active Online Meeting Organization via the app when UV rays are too intense
